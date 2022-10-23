@@ -32,7 +32,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/palatipjant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palatipjant" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/palatip jantawong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palatip jantawong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/palatip-jantawong-21539021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palatip jantawong" height="30" width="40" /></a>
 <a href="https://fb.com/feepalatip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="feepalatip" height="30" width="40" /></a>
 <a href="https://instagram.com/feee_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feee_dev" height="30" width="40" /></a>
 <a href="https://medium.com/@feee_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@feee_dev" height="30" width="40" /></a>
