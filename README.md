@@ -42,6 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeedev&layout=compact&exclude_repo=repo1,repo2&theme=dark" alt="feeedev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feeedev&show_icons=true&theme=dark" alt="feeedev" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=feeedev&show_icons=true&theme=dark" alt="feeedev" /></p>
 
 
