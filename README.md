@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palatip Jantawong</h1>
 <h3 align="center">a multifaceted software developer, mobile application enthusiast, and creative mind in the world of UX/UI and graphic design. Currently a third-year Computer Science student at Bangkok University, I am passionate about translating innovative ideas into seamless, user-centered digital experiences. My portfolio is a glimpse into my journey of merging technology and design to build solutions that captivate and resonate. Join me as I continue to explore the endless horizons of technology and creativity.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palatipjant" alt="palatipjant" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/palatipjant" target="blank"><img src="https://img.shields.io/twitter/follow/palatipjant?logo=twitter&style=for-the-badge" alt="palatipjant" /></a> </p>
 
 - 🔭 I’m currently working on [Apple Framework App](https://github.com/palatipjant/Apple-Framework-App)
