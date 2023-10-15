@@ -1,6 +1,6 @@
 <div align="center">
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Red%20Apple.png" width="50px" /> &nbsp; Palatip Jantawong &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Red%20Apple.png" width="50px" />
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Santa%20Claus%20Light%20Skin%20Tone.png" width="30px" /> Palatip Jantawong <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Santa%20Claus%20Light%20Skin%20Tone.png" width="30px" />
 
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
@@ -10,7 +10,7 @@
 
 <div align="left">
   
-  - 🔭 I’m currently working on [Apple Framework App](https://github.com/palatipjant/Apple-Framework-App)
+  - 🔭 I’m currently working on [Instagram Clone with SwiftUI + Firebase](https://github.com/palatipjant/instagram-clone)
   
   - 🌱 I’m currently learning **Swift, UIKit, and SwiftUI**
   
