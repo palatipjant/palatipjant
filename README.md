@@ -1,31 +1,33 @@
 <div align="center">
-  
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Santa%20Claus%20Light%20Skin%20Tone.png" width="30px" /> Palatip Jantawong <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Santa%20Claus%20Light%20Skin%20Tone.png" width="30px" />
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Santa%20Claus%20Light%20Skin%20Tone.png" width="30px" align="center"/> Palatip Jantawong <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Santa%20Claus%20Light%20Skin%20Tone.png" width="30px" align="center"/>
+
+</div>
 
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<p align="center">a multifaceted software developer, mobile application enthusiast, and creative mind in the world of UX/UI and graphic design. Currently a third-year Computer Science student at Bangkok University, I am passionate about translating innovative ideas into seamless, user-centered digital experiences. My portfolio is a glimpse into my journey of merging technology and design to build solutions that captivate and resonate. Join me as I continue to explore the endless horizons of technology and creativity.</p>
+
+```swift
+struct Developer {
+  let name = "Palatip Jantawong"
+  let pronouns = "she/her"
+  let age = 21
+  let role = "Software Engineer | iOS Developer"
+  let location = "Thailand 🇹🇭"
+  let languages = ["th_TH", "en_US"]
+  let skills = ["Swift", "Python", "Java", "Dart"]
+  
+  func ahhhhhh() {
+    print("Hi, feel free to reach me about anything! 🙏🏻")
+  }
+}
+    
+let fee = Developer()
+fee.ahhhhhh()
+```
 
 <p align="center"> <a href="https://twitter.com/palatipjant" target="blank"><img src="https://img.shields.io/twitter/follow/palatipjant?logo=twitter&style=for-the-badge" alt="palatipjant" /></a> </p>
 
-<div align="left">
-  
-  - 🔭 I’m currently working on [Instagram Clone with SwiftUI + Firebase](https://github.com/palatipjant/instagram-clone)
-  
-  - 🌱 I’m currently learning **Swift, UIKit, and SwiftUI**
-  
-  - 👨‍💻 All of my projects are available at [palatip.com](palatip.com)
-  
-  - 📝 I regularly write articles on [https://medium.com/@palatipjant](https://medium.com/@palatipjant)
-  
-  - 💬 Ask me about **Python, Mobile Development, or Anything!!**
-  
-  - 📫 How to reach me **palatipjant@outlook.com**
-  
-  - 📄 Know about my experiences [palatip.com](palatip.com)
-  
-  - ⚡ Fun fact **I can't say anything when i met new people but trust me i have a lot of thing that want to say lol**
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/palatipjant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palatipjant" height="30" width="40" /></a>
