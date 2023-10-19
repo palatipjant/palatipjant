@@ -1,6 +1,6 @@
-<div align="center">
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Santa%20Claus%20Light%20Skin%20Tone.png" width="30px" align="center"/> Palatip Jantawong <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Santa%20Claus%20Light%20Skin%20Tone.png" width="30px" align="center"/>
+<div align="left">
+  
+# Hi, fellas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="30px" align="center"/>
 
 </div>
 
