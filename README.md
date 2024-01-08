@@ -1,6 +1,6 @@
 <div align="left">
   
-# Hi, fellas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="30px" align="center"/>
+# Hi, fellas  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="30px" align="center"/>
 
 </div>
 
@@ -14,7 +14,7 @@ struct Developer {
   let role = "Software Engineer | iOS Developer"
   let location = "Thailand 🇹🇭"
   let languages = ["th_TH", "en_US"]
-  let skills = ["Swift", "Python", "Java", "Dart"]
+  let skills = ["Swift", "Python"]
   
   func ahhhhhh() {
     print("Hi, feel free to reach me about anything! 🙏🏻")
