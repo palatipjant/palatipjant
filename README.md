@@ -36,7 +36,7 @@ fee.ahhhhhh()
 <a href="https://instagram.com/whos.fee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whos.fee" height="30" width="40" /></a>
 <a href="https://dribbble.com/palatipjant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="palatipjant" height="30" width="40" /></a>
 <a href="https://medium.com/@palatipjant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@palatipjant" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/it's fye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="it's fye" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@itsfye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="it's fye" height="30" width="40" /></a>
 <a href="https://discord.gg/tJxjH7f9k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tJxjH7f9k" height="30" width="40" /></a>
 </p>
 
