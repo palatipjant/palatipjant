@@ -25,8 +25,6 @@ let fee = Developer()
 fee.ahhhhhh()
 ```
 
-<p align="left"> <a href="https://twitter.com/palatipjant" target="blank"><img src="https://img.shields.io/twitter/follow/palatipjant?logo=twitter&style=for-the-badge" alt="palatipjant" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/palatipjant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palatipjant" height="30" width="40" /></a>
@@ -41,8 +39,6 @@ fee.ahhhhhh()
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Astronaut%20Medium-Light%20Skin%20Tone.png" width="200" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Astronaut%20Medium-Light%20Skin%20Tone.png" width="200" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Astronaut%20Medium-Light%20Skin%20Tone.png" width="200" />
 
 </div>
