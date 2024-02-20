@@ -38,7 +38,24 @@ fee.ahhhhhh()
 <a href="https://discord.gg/tJxjH7f9k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tJxjH7f9k" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Astronaut%20Medium-Light%20Skin%20Tone.png" width="200" />
+## Speaker / Hosting
+<p>
+  <a href="https://www.facebook.com/msftstudentambassadorsbu/posts/pfbid0NcXtYQisBLDQge4TeB49sM2V2Q9dcr9XX8eKHqAXeWwx37TRZrFg8UkNxviiMUuel" target="blank">Python Developer Pathway (The First Chapter : Be Inspired)</a>
+</p>
 
-</div>
+## Latest Posts / Blogs
+<p>
+  <a href="https://medium.com/@palatipjant/terminal-customization-iterm2-on-macos-0fac5dfae10d" target="blank">Terminal Customization (iTerm2 on macOS )</a>
+  
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7095910341724770304/" target="blank">1st place Application Development Competition</a>
+  
+  <a href="https://medium.com/@palatipjant/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5-deploy-angular-%E0%B8%9A%E0%B8%99-azure-web-app-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-vscode-4959780760df" target="blank">วิธี Deploy Angular บน Azure Web App ผ่าน VSCode</a>
+  
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7024974345076690944/" target="blank">Young Thai Science Ambassadors Program</a>
+  
+  <a href="https://medium.com/@palatipjant/basic-file-exploit-picoctf-26d9b97e60e8" target="blank">basic-file-exploit (picoCTF)</a>
+  
+  <a href="https://medium.com/@palatipjant/picoctf-forensics-5df13791721" target="blank">picoCTF Forensics</a>
+  
+  <a href="https://mvp.microsoft.com/studentambassadors/certificate/37d5e587-c9f1-4f32-a63b-1ab24fc49bd2" target="blank">Microsoft Learn Student Ambassadors</a>
+</p>
